@@ -1,155 +1,149 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  MARUF HOSSAIN — GitHub Profile               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6fa8&height=200&section=header&text=Maruf%20Hossain&fontSize=52&fontColor=e6f1ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%26%20ASP.NET%20Core&descAlignY=60&descSize=18&descColor=7cb9e8&animation=fadeIn" alt="Header" width="100%"/>
+# Maruf Hossain
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1a6fa8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%A1;ASP.NET+Core+%26+SQL+Server+Expert+%F0%9F%94%A5;Backend+Architecture+Enthusiast+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%93%9A" alt="Typing SVG" />
-</a>
+**Software Engineer · MERN Stack · ASP.NET Core · Bangladesh 🇧🇩**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Backend+architecture+%26+REST+APIs;Clean+Code+%7C+Clean+Architecture;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=marufh1&label=Profile%20Views&color=1a6fa8&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://linkedin.com/in/maruf-h">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1a6fa8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:maruf.mhb@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=marufh1&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/marufh1)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maruf--h-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruf-h)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-maruf.mhb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maruf.mhb@gmail.com)
+&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-maruf.mhb-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/maruf.mhb)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-```javascript
-const maruf = {
-  role:       "Software Engineer",
-  location:   "Bangladesh 🇧🇩",
-  focus:      ["MERN Stack", "ASP.NET Core", "SQL Server"],
-  passions:   ["Backend Architecture", "REST APIs", "Performance Optimization"],
-  currentGoal: "Building scalable enterprise-grade applications",
-  funFact:    "I turn complex backend problems into clean, production-ready solutions ☕"
-};
+```yaml
+name:       Maruf Hossain
+role:       Software Engineer
+location:   Dhaka, Bangladesh 🇧🇩
+stacks:
+  - MERN Stack  (MongoDB · Express · React · Node.js)
+  - ASP.NET Core Web API
+  - SQL Server & Stored Procedures
+strengths:
+  - Backend Architecture & System Design
+  - REST API Development
+  - Authentication & Authorization
+  - Performance Optimization & Query Tuning
+  - Scalable Enterprise Applications
+currently:
+  - Learning  → Cloud-native development & Microservices
+  - Building  → Enterprise-grade production systems
+  - Exploring → Clean Architecture patterns
 ```
 
-- 🔭 Building **scalable web applications** and **enterprise solutions**
-- ⚡ Expert in **MERN Stack**, **ASP.NET Core**, and **SQL Server**
-- 🧠 Deep experience in **Clean Architecture**, **Microservices**, and **System Design**
-- 📚 Currently leveling up in **Cloud-native development** and **Advanced SQL optimization**
-- 💬 Ask me about `React.js` · `Node.js` · `ASP.NET Core` · `SQL Server` · `REST APIs`
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-Language-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Language-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Modern-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-Framework-000000?style=flat-square&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Relational-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Platform-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marufh1&theme=algolia&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
-
-### ⚙️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🔧 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-### 🔨 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marufh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<a href="https://github.com/marufh1">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marufh1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufh1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufh1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marufh1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufh1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</div>
+<a href="https://github.com/marufh1">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=marufh1&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF9500" />
+</a>
 
----
+<br/><br/>
 
-## 🎯 Current Focus
+<a href="https://github.com/marufh1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufh1&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&hide_border=true" width="95%" />
+</a>
 
-| Area | Details |
-|------|---------|
-| 🏗️ Architecture | Clean Architecture & Microservices patterns |
-| ⚡ Performance | Advanced SQL Server query & index optimization |
-| ☁️ Cloud | Cloud-native development practices |
-| 🔐 Security | Authentication, Authorization & secure API design |
-| 🌐 Full-Stack | End-to-end MERN Stack production applications |
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/maruf-h" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://fb.com/maruf.mhb" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  &nbsp;
-  <a href="mailto:maruf.mhb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </div>
 
 ---
 
+## 🏆 Achievements
+
 <div align="center">
 
-### ☕ *"I enjoy solving complex backend problems, optimizing databases, and turning ideas into scalable production-ready systems."*
+[![Trophies](https://github-profile-trophy.vercel.app/?username=marufh1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/marufh1)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fa8,50:0a3d62,100:0d1117&height=120&section=footer" alt="Footer" width="100%"/>
+</div>
+
+---
+
+## 🎯 What I'm Focused On
+
+| Priority | Area | Details |
+|:---:|---|---|
+| 🔴 | **Enterprise Architecture** | Clean Architecture, CQRS, Repository Pattern |
+| 🟠 | **SQL Mastery** | Advanced indexing, stored procedures, query plans |
+| 🟡 | **Cloud & DevOps** | Azure, Docker, CI/CD pipelines |
+| 🟢 | **API Design** | RESTful best practices, versioning, security |
+| 🔵 | **Frontend Depth** | React performance, state management patterns |
+
+---
+
+<div align="center">
+
+*"The best code is no code at all. The second best is code that solves the right problem."*
+
+<br/>
+
+**Open to collaborations · Freelance projects · Interesting problems**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruf-h)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maruf.mhb@gmail.com)
 
 </div>
