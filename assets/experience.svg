@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="842" viewBox="0 0 1200 842" fill="none" role="img" aria-label="Experience: Senior Software Engineer at Grapes Technology (Dec 2025 — Present); Senior Software Engineer / Team Lead at Siara Solutions Pty Ltd. (Jul 2022 — Nov 2025); Software Engineer at Advanced Software and IT Services Ltd. (Mar 2019 — Jun 2022)">
+<title>Experience: Senior Software Engineer at Grapes Technology (Dec 2025 — Present); Senior Software Engineer / Team Lead at Siara Solutions Pty Ltd. (Jul 2022 — Nov 2025); Software Engineer at Advanced Software and IT Services Ltd. (Mar 2019 — Jun 2022)</title>
+
+<defs>
+  <linearGradient id="x-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <pattern id="x-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".06"/>
+  </pattern>
+  <clipPath id="x-clip"><rect width="1200" height="842" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#x-clip)">
+  <rect width="1200" height="842" fill="url(#x-bg)"/>
+  
+  
+  <style>
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
+    @keyframes pulse { 0% { opacity: .6; transform: scale(1); } 100% { opacity: 0; transform: scale(2.4); } }
+  </style>
+  <defs><linearGradient id="x-rail" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#58a6ff"/><stop offset=".5" stop-color="#a371f7"/><stop offset="1" stop-color="#3fb950" stop-opacity=".2"/>
+  </linearGradient></defs>
+  <rect x="55" y="72" width="2" height="718" fill="url(#x-rail)" opacity=".6"/>
+  <g>
+      <circle cx="56" cy="72" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+      <circle class="pulse" cx="56" cy="72" r="9" fill="#58a6ff"/>
+      <rect x="92" y="32" width="1076" height="246" rx="16" fill="#ffffff" fill-opacity=".025" stroke="#21262d"/>
+      <rect x="92" y="52" width="3" height="44" rx="1.5" fill="#58a6ff"/>
+      <text x="122" y="76" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="700">Senior Software Engineer</text>
+      <text x="122" y="104" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5"><tspan fill="#58a6ff" font-weight="600">Grapes Technology</tspan><tspan fill="#8b949e">   ·   Dhaka, Bangladesh</tspan></text>
+      <g transform="translate(983.3 56)">
+        <rect width="156.70000000000002" height="30" rx="15" fill="#58a6ff" fill-opacity=".14" stroke="#58a6ff" stroke-opacity=".5"/>
+        <text x="78.35000000000001" y="20" text-anchor="middle" fill="#58a6ff" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">Dec 2025 — Present</text>
+      </g>
+      <circle cx="130" cy="138" r="3" fill="#58a6ff"/><text x="146" y="144" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Architecting and maintaining a high-performance microfinance platform on ASP.NET Core, C#, SQL Server and React.</text>
+<circle cx="130" cy="170" r="3" fill="#58a6ff"/><text x="146" y="176" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Optimizing SQL queries, indexing strategies and stored procedures — reducing execution time on critical reports.</text>
+<circle cx="130" cy="202" r="3" fill="#58a6ff"/><text x="146" y="208" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Integrating mobile financial service providers, including Safaricom M-Pesa and GeePay.</text>
+      <g transform="translate(122 228)">
+      <rect width="131.95999999999998" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#512BD4"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">ASP.NET Core</text>
+    </g>
+<g transform="translate(261.96 228)">
+      <rect width="53.66" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#178600"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">C#</text>
+    </g>
+<g transform="translate(323.62 228)">
+      <rect width="116.3" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#CC2927"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">SQL Server</text>
+    </g>
+<g transform="translate(447.92 228)">
+      <rect width="77.15" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#61DAFB"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">React</text>
+    </g>
+<g transform="translate(533.07 228)">
+      <rect width="108.47" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#58a6ff"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">REST APIs</text>
+    </g>
+    </g>
+<g>
+      <circle cx="56" cy="338" r="9" fill="#0d1117" stroke="#a371f7" stroke-width="3"/>
+      <circle cx="56" cy="338" r="3.5" fill="#a371f7"/>
+      <rect x="92" y="298" width="1076" height="246" rx="16" fill="#ffffff" fill-opacity=".025" stroke="#21262d"/>
+      <rect x="92" y="318" width="3" height="44" rx="1.5" fill="#a371f7"/>
+      <text x="122" y="342" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="700">Senior Software Engineer / Team Lead</text>
+      <text x="122" y="370" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5"><tspan fill="#a371f7" font-weight="600">Siara Solutions Pty Ltd.</tspan><tspan fill="#8b949e">   ·   Remote · Liverpool, NSW, Australia</tspan></text>
+      <g transform="translate(976.15 322)">
+        <rect width="163.85000000000002" height="30" rx="15" fill="#a371f7" fill-opacity=".06" stroke="#a371f7" stroke-opacity=".25"/>
+        <text x="81.92500000000001" y="20" text-anchor="middle" fill="#c9d1d9" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">Jul 2022 — Nov 2025</text>
+      </g>
+      <circle cx="130" cy="404" r="3" fill="#a371f7"/><text x="146" y="410" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Led full-stack development in React, Node.js and TypeScript for car rental, food-ordering and tutoring platforms.</text>
+<circle cx="130" cy="436" r="3" fill="#a371f7"/><text x="146" y="442" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Engineered real-time chat with WebSocket / Socket.io and secure Jitsi video conferencing for online tutoring.</text>
+<circle cx="130" cy="468" r="3" fill="#a371f7"/><text x="146" y="474" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Built backends on PostgreSQL and MongoDB; integrated Brevo, Infobip and Mapbox for messaging and maps.</text>
+      <g transform="translate(122 494)">
+      <rect width="77.15" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#61DAFB"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">React</text>
+    </g>
+<g transform="translate(207.15 494)">
+      <rect width="92.81" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#3fb950"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">Node.js</text>
+    </g>
+<g transform="translate(307.96000000000004 494)">
+      <rect width="116.3" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#3178C6"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">TypeScript</text>
+    </g>
+<g transform="translate(432.26000000000005 494)">
+      <rect width="116.3" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#4169E1"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">PostgreSQL</text>
+    </g>
+<g transform="translate(556.5600000000001 494)">
+      <rect width="92.81" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#47A248"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">MongoDB</text>
+    </g>
+<g transform="translate(657.3700000000001 494)">
+      <rect width="77.15" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#0089D6"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">Azure</text>
+    </g>
+    </g>
+<g>
+      <circle cx="56" cy="604" r="9" fill="#0d1117" stroke="#3fb950" stroke-width="3"/>
+      <circle cx="56" cy="604" r="3.5" fill="#3fb950"/>
+      <rect x="92" y="564" width="1076" height="246" rx="16" fill="#ffffff" fill-opacity=".025" stroke="#21262d"/>
+      <rect x="92" y="584" width="3" height="44" rx="1.5" fill="#3fb950"/>
+      <text x="122" y="608" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="700">Software Engineer</text>
+      <text x="122" y="636" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5"><tspan fill="#3fb950" font-weight="600">Advanced Software and IT Services Ltd.</tspan><tspan fill="#8b949e">   ·   Dhaka, Bangladesh</tspan></text>
+      <g transform="translate(976.15 588)">
+        <rect width="163.85000000000002" height="30" rx="15" fill="#3fb950" fill-opacity=".06" stroke="#3fb950" stroke-opacity=".25"/>
+        <text x="81.92500000000001" y="20" text-anchor="middle" fill="#c9d1d9" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">Mar 2019 — Jun 2022</text>
+      </g>
+      <circle cx="130" cy="670" r="3" fill="#3fb950"/><text x="146" y="676" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Built the land survey web application settlement.gov.bd on ASP.NET MVC, integrated with government web services.</text>
+<circle cx="130" cy="702" r="3" fill="#3fb950"/><text x="146" y="708" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Developed land case and audit management systems on ASP.NET Core and SQL Server with stored procedures.</text>
+<circle cx="130" cy="734" r="3" fill="#3fb950"/><text x="146" y="740" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Extended an ERP with leave and duty-shift modules; mentored junior developers alongside the CTO.</text>
+      <g transform="translate(122 760)">
+      <rect width="131.95999999999998" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#512BD4"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">ASP.NET Core</text>
+    </g>
+<g transform="translate(261.96 760)">
+      <rect width="124.13" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#512BD4"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">ASP.NET MVC</text>
+    </g>
+<g transform="translate(394.09 760)">
+      <rect width="53.66" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#178600"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">C#</text>
+    </g>
+<g transform="translate(455.75 760)">
+      <rect width="116.3" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#CC2927"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">SQL Server</text>
+    </g>
+<g transform="translate(580.05 760)">
+      <rect width="108.47" height="30" rx="15" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="15" r="4.5" fill="#8b949e"/>
+      <text x="26" y="19.86"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5">Web Forms</text>
+    </g>
+    </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="841" rx="20" stroke="#30363d"/>
+</svg>

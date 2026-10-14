@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="Thanks for stopping by">
-<title>Thanks for stopping by</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="130" viewBox="0 0 1200 130" fill="none" role="img" aria-label="Open to remote roles">
+<title>Open to remote roles</title>
 
 <defs>
   <linearGradient id="f-bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/>
   </linearGradient>
   <pattern id="f-dots" width="22" height="22" patternUnits="userSpaceOnUse">
-    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".07"/>
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".06"/>
   </pattern>
-  <clipPath id="f-clip"><rect width="1200" height="120" rx="18"/></clipPath>
+  <clipPath id="f-clip"><rect width="1200" height="130" rx="18"/></clipPath>
 </defs>
 <g clip-path="url(#f-clip)">
-  <rect width="1200" height="120" fill="url(#f-bg)"/>
-  <rect width="1200" height="120" fill="url(#f-dots)"/>
+  <rect width="1200" height="130" fill="url(#f-bg)"/>
+  <rect width="1200" height="130" fill="url(#f-dots)"/>
   
   <defs>
     <linearGradient id="f-line" x1="0" y1="0" x2="1" y2="0">
@@ -26,8 +26,8 @@
     @keyframes sweep { from { transform: translateX(-380px); } to { transform: translateX(380px); } }
   </style>
   <rect class="sweep" x="300" y="0" width="600" height="3" fill="url(#f-line)"/>
-  <text x="600" y="56" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700">Thanks for stopping by.</text>
-  <text x="600" y="86" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">// let's build something reliable, fast and clean together</text>
+  <text x="600" y="60" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="700">Open to remote roles — let's build something reliable.</text>
+  <text x="600" y="94" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">Dhaka, Bangladesh · UTC+6 · overlaps EU, AU &amp; Asia hours</text>
 </g>
-<rect x=".5" y=".5" width="1199" height="119" rx="18" stroke="#30363d"/>
+<rect x=".5" y=".5" width="1199" height="129" rx="18" stroke="#30363d"/>
 </svg>

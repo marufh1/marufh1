@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="230" viewBox="0 0 600 230" fill="none" role="img" aria-label="Car Rental &amp; Food Ordering — Three consumer products on one Node.js API layer — real-time chat, maps and video conferencing.">
+<title>Car Rental &amp; Food Ordering — Three consumer products on one Node.js API layer — real-time chat, maps and video conferencing.</title>
+
+<defs>
+  <linearGradient id="w-rental-food-platforms-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <pattern id="w-rental-food-platforms-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".06"/>
+  </pattern>
+  <clipPath id="w-rental-food-platforms-clip"><rect width="600" height="230" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#w-rental-food-platforms-clip)">
+  <rect width="600" height="230" fill="url(#w-rental-food-platforms-bg)"/>
+  
+  
+  <defs><radialGradient id="w-rental-food-platforms-glow"><stop offset="0" stop-color="#a371f7" stop-opacity="0.22"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/></radialGradient></defs>
+  <ellipse cx="560" cy="10" rx="240" ry="150" fill="url(#w-rental-food-platforms-glow)"/>
+  <rect width="600" height="3" fill="#a371f7"/>
+  <g transform="translate(32 34)" stroke="#8b949e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="4" width="20" height="15" rx="2.5"/><path d="M7 4V2.5A1.5 1.5 0 0 1 8.5 1h5A1.5 1.5 0 0 1 15 2.5V4M1 10h20"/>
+  </g>
+  <text x="62" y="51" fill="#a371f7" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.6">PRODUCT PLATFORMS · TEAM LEAD</text>
+  <text x="32" y="96" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-.3">Car Rental &amp; Food Ordering</text>
+  <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">
+    <tspan x="32" y="128">Three consumer products on one Node.js API layer —</tspan>
+    <tspan x="32" y="151">real-time chat, maps and video conferencing.</tspan>
+  </text>
+  <g transform="translate(32 176)">
+      <rect width="75.69999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#61DAFB"/>
+      <text x="26" y="18.68"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">React</text>
+    </g>
+<g transform="translate(115.69999999999999 176)">
+      <rect width="90.78" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#3fb950"/>
+      <text x="26" y="18.68"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">Node.js</text>
+    </g>
+<g transform="translate(214.48 176)">
+      <rect width="113.39999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#4169E1"/>
+      <text x="26" y="18.68"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">PostgreSQL</text>
+    </g>
+<g transform="translate(335.88 176)">
+      <rect width="90.78" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#47A248"/>
+      <text x="26" y="18.68"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">MongoDB</text>
+    </g>
+  <g transform="translate(534 28)">
+    <rect width="38" height="38" rx="19" fill="#ffffff" fill-opacity=".05" stroke="#30363d"/>
+    <path d="M14 24l10-10M16 14h8v8" stroke="#e6edf3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</g>
+<rect x=".5" y=".5" width="599" height="229" rx="18" stroke="#30363d"/>
+</svg>

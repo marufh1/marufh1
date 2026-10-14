@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="230" viewBox="0 0 600 230" fill="none" role="img" aria-label="Fintech Transaction Platform — Transaction &amp; reporting modules on SQL Server, with Safaricom M-Pesa and GeePay integrations.">
+<title>Fintech Transaction Platform — Transaction &amp; reporting modules on SQL Server, with Safaricom M-Pesa and GeePay integrations.</title>
+
+<defs>
+  <linearGradient id="w-fintech-platform-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <pattern id="w-fintech-platform-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".06"/>
+  </pattern>
+  <clipPath id="w-fintech-platform-clip"><rect width="600" height="230" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#w-fintech-platform-clip)">
+  <rect width="600" height="230" fill="url(#w-fintech-platform-bg)"/>
+  
+  
+  <defs><radialGradient id="w-fintech-platform-glow"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.22"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient></defs>
+  <ellipse cx="560" cy="10" rx="240" ry="150" fill="url(#w-fintech-platform-glow)"/>
+  <rect width="600" height="3" fill="#58a6ff"/>
+  <g transform="translate(32 34)" stroke="#8b949e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="4" width="20" height="15" rx="2.5"/><path d="M7 4V2.5A1.5 1.5 0 0 1 8.5 1h5A1.5 1.5 0 0 1 15 2.5V4M1 10h20"/>
+  </g>
+  <text x="62" y="51" fill="#58a6ff" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.6">FINANCIAL SYSTEMS</text>
+  <text x="32" y="96" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-.3">Fintech Transaction Platform</text>
+  <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">
+    <tspan x="32" y="128">Transaction &amp; reporting modules on SQL Server,</tspan>
+    <tspan x="32" y="151">with Safaricom M-Pesa and GeePay integrations.</tspan>
+  </text>
+  <g transform="translate(32 176)">
+      <rect width="128.48" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#512BD4"/>
+      <text x="26" y="18.68"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">ASP.NET Core</text>
+    </g>
+<g transform="translate(168.48 176)">
+      <rect width="113.39999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#CC2927"/>
+      <text x="26" y="18.68"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">SQL Server</text>
+    </g>
+<g transform="translate(289.88 176)">
+      <rect width="75.69999999999999" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#61DAFB"/>
+      <text x="26" y="18.68"  fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">React</text>
+    </g>
+  <g transform="translate(534 28)">
+    <rect width="38" height="38" rx="19" fill="#ffffff" fill-opacity=".05" stroke="#30363d"/>
+    <path d="M14 24l10-10M16 14h8v8" stroke="#e6edf3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</g>
+<rect x=".5" y=".5" width="599" height="229" rx="18" stroke="#30363d"/>
+</svg>
