@@ -4,146 +4,137 @@
 
 <div align="center">
 
-# Maruf Hossain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58A6FF,100:8957e5&height=200&section=header&text=Maruf%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20MERN%20%C2%B7%20ASP.NET%20Core&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Maruf Hossain" />
 
-**Software Engineer · MERN Stack · ASP.NET Core · Bangladesh 🇧🇩**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Backend+architecture+%26+REST+APIs;Clean+Code+%7C+Clean+Architecture;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+scalable+web+applications;Backend+architecture+%26+REST+APIs;Clean+Code+%7C+Clean+Architecture;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=marufh1&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/marufh1)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maruf--h-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruf-h)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-maruf.mhb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maruf.mhb@gmail.com)
-&nbsp;&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-maruf.mhb-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/maruf.mhb)
+<a href="https://linkedin.com/in/maruf-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:maruf.mhb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://fb.com/maruf.mhb"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://github.com/marufh1"><img src="https://komarev.com/ghpvc/?username=marufh1&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" /></a>
 
 </div>
 
 <br/>
 
----
+## 👋 About Me
 
-## `$ whoami`
+I'm a software engineer from **Dhaka, Bangladesh 🇧🇩** who builds backend-heavy web applications — from **REST & GraphQL APIs** to **enterprise systems** on ASP.NET Core and the MERN stack. I care about clean architecture, fast queries, and code that's easy to change.
 
 ```yaml
 name:       Maruf Hossain
 role:       Software Engineer
-location:   Dhaka, Bangladesh 🇧🇩
-stacks:
-  - MERN Stack  (MongoDB · Express · React · Node.js)
-  - ASP.NET Core Web API
-  - SQL Server & Stored Procedures
+location:   Dhaka, Bangladesh
+stacks:     [MERN, NestJS, Next.js, ASP.NET Core Web API, SQL Server]
 strengths:
-  - Backend Architecture & System Design
-  - REST API Development
-  - Authentication & Authorization
-  - Performance Optimization & Query Tuning
-  - Scalable Enterprise Applications
+  - Backend architecture & system design
+  - REST / GraphQL API development
+  - Authentication & authorization (JWT, MFA)
+  - SQL performance tuning & stored procedures
 currently:
-  - Learning  → Cloud-native development & Microservices
   - Building  → Enterprise-grade production systems
-  - Exploring → Clean Architecture patterns
+  - Learning  → Cloud-native development, Docker & Azure CI/CD
+  - Exploring → Clean Architecture, CQRS & microservices
 ```
-
----
 
 ## 🛠 Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-Language-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Language-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,cs,c,cpp,python" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,materialui" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,graphql" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />&nbsp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" alt="Tools" /></td>
+  </tr>
+</table>
 
-### Frontend
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Modern-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+## 🚀 Featured Projects
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-Framework-000000?style=flat-square&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| **[Food Delivery App](https://github.com/marufh1/delivery-food-app)** | Food delivery platform built on a microservices architecture | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **[MFA API](https://github.com/marufh1/mfa-api-express)** | Multi-factor authentication backend | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **[Study Schedule Optimizer](https://github.com/marufh1/study-schedule-optimizer)** | Smart study planner for working students | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  |
+| **[NestJS Task Planner](https://github.com/marufh1/nestjs-task-planner)** | Enterprise back-end reference: REST APIs, auth & best practices | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[Booking App](https://github.com/marufh1/booking-app-nextjs)** | Booking application built with Next.js | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Relational-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Platform-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-
----
+<p align="right"><a href="https://github.com/marufh1?tab=repositories">See all repositories →</a></p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/marufh1">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marufh1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufh1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marufh1&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marufh1&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=0969da&icon_color=0969da&text_color=24292f&rank_icon=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marufh1&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=58A6FF&text_color=c9d1d9" />
+    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufh1&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=0969da&text_color=24292f" />
+  </picture>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/marufh1">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marufh1&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF9500" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/marufh1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marufh1&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&hide_border=true" width="95%" />
-</a>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=marufh1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/marufh1)
-
-</div>
-
----
-
-## 🎯 What I'm Focused On
-
-| Priority | Area | Details |
-|:---:|---|---|
-| 🔴 | **Enterprise Architecture** | Clean Architecture, CQRS, Repository Pattern |
-| 🟠 | **SQL Mastery** | Advanced indexing, stored procedures, query plans |
-| 🟡 | **Cloud & DevOps** | Azure, Docker, CI/CD pipelines |
-| 🟢 | **API Design** | RESTful best practices, versioning, security |
-| 🔵 | **Frontend Depth** | React performance, state management patterns |
-
----
-
-<div align="center">
-
-*"The best code is no code at all. The second best is code that solves the right problem."*
 
 <br/>
+
+<a href="https://github.com/marufh1">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=marufh1&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=marufh1&theme=transparent&hide_border=true&stroke=0969da&ring=0969da&fire=FF9500&currStreakLabel=0969da&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  </picture>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marufh1/marufh1/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/marufh1/marufh1/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary><b>📈 Activity graph & 🏆 trophies</b></summary>
+<br/>
+<div align="center">
+
+<a href="https://github.com/marufh1"><img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=marufh1&bg_color=00000000&color=58A6FF&line=1f6feb&point=8957e5&area=true&area_color=58A6FF&hide_border=true" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/marufh1"><img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=marufh1&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" /></a>
+
+</div>
+</details>
+
+<br/>
+
+<div align="center">
 
 **Open to collaborations · Freelance projects · Interesting problems**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruf-h)
+<a href="https://linkedin.com/in/maruf-h"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" /></a>
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maruf.mhb@gmail.com)
+<a href="mailto:maruf.mhb@gmail.com"><img src="https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a Mail" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:58A6FF,100:1f6feb&height=110&section=footer" width="100%" alt="" />
 
 </div>
