@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-label="Maruf Hossain — Software Engineer">
+<title>Maruf Hossain — Software Engineer</title>
+
+<defs>
+  <linearGradient id="h-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <pattern id="h-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".07"/>
+  </pattern>
+  <clipPath id="h-clip"><rect width="1200" height="420" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#h-clip)">
+  <rect width="1200" height="420" fill="url(#h-bg)"/>
+  <rect width="1200" height="420" fill="url(#h-dots)"/>
+  
+  <defs>
+    <radialGradient id="h-orb1"><stop offset="0" stop-color="#58a6ff" stop-opacity=".35"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="h-orb2"><stop offset="0" stop-color="#a371f7" stop-opacity=".32"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="h-name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#cfe3ff"/><stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="h-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .orb1 { animation: drift1 14s ease-in-out infinite alternate; }
+    .orb2 { animation: drift2 18s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(120px, 40px); } }
+    @keyframes drift2 { to { transform: translate(-140px, -30px); } }
+    .ln { opacity: 0; animation: type .45s ease-out forwards; }
+    @keyframes type { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .pulse { transform-origin: 88px 96px; animation: pulse 2s ease-out infinite; }
+    @keyframes pulse { 0% { opacity: .7; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+    .fade { opacity: 0; animation: type .6s ease-out forwards; }
+  </style>
+
+  <ellipse class="orb1" cx="260" cy="120" rx="360" ry="260" fill="url(#h-orb1)"/>
+  <ellipse class="orb2" cx="980" cy="360" rx="380" ry="260" fill="url(#h-orb2)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#h-bar)"/>
+
+  <!-- status pill -->
+  <g class="fade" style="animation-delay:.1s">
+    <rect x="70" y="80" width="250" height="32" rx="16" fill="#3fb950" fill-opacity=".1" stroke="#3fb950" stroke-opacity=".45"/>
+    <circle class="pulse" cx="88" cy="96" r="5" fill="#3fb950"/>
+    <circle cx="88" cy="96" r="5" fill="#3fb950"/>
+    <text x="102" y="101" fill="#7ee787" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600">Open to collaborations</text>
+  </g>
+
+  <g class="fade" style="animation-delay:.2s">
+    <text x="70" y="158" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17">Hello, world — I'm</text>
+    <text x="68" y="222" fill="url(#h-name)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-1.5">Maruf Hossain</text>
+  </g>
+  <g class="fade" style="animation-delay:.35s">
+    <text x="70" y="270" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="600">
+      <tspan fill="#e6edf3">Software Engineer</tspan><tspan fill="#8b949e" font-weight="400">  ·  </tspan><tspan fill="#58a6ff">Backend</tspan><tspan fill="#8b949e" font-weight="400"> &amp; </tspan><tspan fill="#a371f7">Full-stack</tspan>
+    </text>
+  </g>
+  <g class="fade" style="animation-delay:.5s"><g transform="translate(70 318)">
+      <rect width="174.8" height="34" rx="17" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <text x="87.4" y="22" text-anchor="middle" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Dhaka, Bangladesh</text>
+    </g>
+<g transform="translate(254.8 318)">
+      <rect width="183.20000000000002" height="34" rx="17" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <text x="91.60000000000001" y="22" text-anchor="middle" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Clean Architecture</text>
+    </g>
+<g transform="translate(448 318)">
+      <rect width="149.60000000000002" height="34" rx="17" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <text x="74.80000000000001" y="22" text-anchor="middle" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">REST &amp; GraphQL</text>
+    </g></g>
+
+  <!-- code window -->
+  <g class="fade" style="animation-delay:.25s">
+    <rect x="668" y="62" width="462" height="300" rx="14" fill="#0d1117" fill-opacity=".85" stroke="#30363d"/>
+    <path d="M668 76a14 14 0 0 1 14-14h434a14 14 0 0 1 14 14v26h-462z" fill="#161b22"/>
+    <line x1="668" y1="102" x2="1130" y2="102" stroke="#30363d"/>
+    <circle cx="690" cy="82" r="6" fill="#ff5f57"/>
+    <circle cx="710" cy="82" r="6" fill="#febc2e"/>
+    <circle cx="730" cy="82" r="6" fill="#28c840"/>
+    <text x="899" y="87" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">engineer.ts</text>
+  </g>
+  <g class="ln" style="animation-delay:0.50s">
+      <text x="692" y="144" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">1</text>
+      <text x="726" y="144" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#ff7b72">const </tspan><tspan fill="#d2a8ff">engineer</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
+    </g>
+<g class="ln" style="animation-delay:0.82s">
+      <text x="692" y="172" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">2</text>
+      <text x="748" y="172" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#79c0ff">name</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Maruf Hossain"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    </g>
+<g class="ln" style="animation-delay:1.14s">
+      <text x="692" y="200" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">3</text>
+      <text x="748" y="200" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#79c0ff">role</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Software Engineer"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    </g>
+<g class="ln" style="animation-delay:1.46s">
+      <text x="692" y="228" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">4</text>
+      <text x="748" y="228" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"MERN"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">".NET"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"SQL"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+    </g>
+<g class="ln" style="animation-delay:1.78s">
+      <text x="692" y="256" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">5</text>
+      <text x="748" y="256" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#79c0ff">focus</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"scalable backends"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    </g>
+<g class="ln" style="animation-delay:2.10s">
+      <text x="692" y="284" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">6</text>
+      <text x="748" y="284" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#79c0ff">coffee</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#79c0ff">Infinity</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    </g>
+<g class="ln" style="animation-delay:2.42s">
+      <text x="692" y="312" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">7</text>
+      <text x="726" y="312" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#c9d1d9">};</tspan></text>
+    </g>
+<g class="ln" style="animation-delay:2.74s">
+      <text x="692" y="340" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">8</text>
+      <text x="726" y="340" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" xml:space="preserve"><tspan fill="#d2a8ff">engineer</tspan><tspan fill="#c9d1d9">.</tspan><tspan fill="#d2a8ff">ship</tspan><tspan fill="#c9d1d9">(); </tspan><tspan fill="#8b949e">// always shipping</tspan></text>
+    </g>
+  <rect class="caret" x="1064" y="325" width="9" height="19" fill="#58a6ff"/>
+  
+</g>
+<rect x=".5" y=".5" width="1199" height="419" rx="22" stroke="#30363d"/>
+</svg>

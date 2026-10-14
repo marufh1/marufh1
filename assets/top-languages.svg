@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-label="Top languages: JavaScript 55.2%, TypeScript 31.1%, C# 11.8%, Python 0.9%, PHP 0.4%, Java 0.3%">
+<title>Top languages: JavaScript 55.2%, TypeScript 31.1%, C# 11.8%, Python 0.9%, PHP 0.4%, Java 0.3%</title>
+
+<defs>
+  <linearGradient id="l-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <pattern id="l-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".07"/>
+  </pattern>
+  <clipPath id="l-clip"><rect width="400" height="195" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#l-clip)">
+  <rect width="400" height="195" fill="url(#l-bg)"/>
+  
+  
+  <defs><clipPath id="l-bar"><rect x="28" y="64" width="344" height="10" rx="5"/></clipPath></defs>
+  <text x="28" y="40" fill="#58a6ff" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Top Languages</text>
+  <text x="372" y="40" text-anchor="end" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">24 repos</text>
+  <g clip-path="url(#l-bar)"><rect x="28.00" y="64" width="189.92" height="10" fill="#f1e05a"/><rect x="217.92" y="64" width="107.01" height="10" fill="#3178c6"/><rect x="324.93" y="64" width="40.58" height="10" fill="#178600"/><rect x="365.51" y="64" width="2.96" height="10" fill="#3572A5"/><rect x="368.47" y="64" width="1.47" height="10" fill="#4F5D95"/><rect x="369.93" y="64" width="2.07" height="10" fill="#b07219"/></g>
+  <circle cx="34" cy="106" r="5.5" fill="#f1e05a"/>
+    <text x="48" y="110" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">JavaScript <tspan fill="#8b949e" font-size="13">55.2%</tspan></text>
+<circle cx="214" cy="106" r="5.5" fill="#3178c6"/>
+    <text x="228" y="110" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">TypeScript <tspan fill="#8b949e" font-size="13">31.1%</tspan></text>
+<circle cx="34" cy="134" r="5.5" fill="#178600"/>
+    <text x="48" y="138" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">C# <tspan fill="#8b949e" font-size="13">11.8%</tspan></text>
+<circle cx="214" cy="134" r="5.5" fill="#3572A5"/>
+    <text x="228" y="138" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Python <tspan fill="#8b949e" font-size="13">0.9%</tspan></text>
+<circle cx="34" cy="162" r="5.5" fill="#4F5D95"/>
+    <text x="48" y="166" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">PHP <tspan fill="#8b949e" font-size="13">0.4%</tspan></text>
+<circle cx="214" cy="162" r="5.5" fill="#b07219"/>
+    <text x="228" y="166" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Java <tspan fill="#8b949e" font-size="13">0.3%</tspan></text>
+</g>
+<rect x=".5" y=".5" width="399" height="194" rx="18" stroke="#30363d"/>
+</svg>

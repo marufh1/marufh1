@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" fill="none" role="img" aria-label="MFA Auth API — Backend service for multi-factor authentication, built with Express.js.">
+<title>MFA Auth API — Backend service for multi-factor authentication, built with Express.js.</title>
+
+<defs>
+  <linearGradient id="p-mfa-api-express-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <pattern id="p-mfa-api-express-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".07"/>
+  </pattern>
+  <clipPath id="p-mfa-api-express-clip"><rect width="600" height="220" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#p-mfa-api-express-clip)">
+  <rect width="600" height="220" fill="url(#p-mfa-api-express-bg)"/>
+  
+  
+  <defs>
+    <radialGradient id="p-mfa-api-express-glow"><stop offset="0" stop-color="#3fb950" stop-opacity=".22"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="560" cy="10" rx="240" ry="150" fill="url(#p-mfa-api-express-glow)"/>
+  <rect width="600" height="3" fill="#3fb950"/>
+  <!-- repo icon -->
+  <g transform="translate(32 34)" stroke="#8b949e" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 17V3.5A2.5 2.5 0 0 1 4.5 1H16v14H4.5A2.5 2.5 0 0 0 2 17.5 2.5 2.5 0 0 0 4.5 20H8"/>
+    <path d="M10 18v4l2-1.4 2 1.4v-4"/>
+  </g>
+  <text x="62" y="51" fill="#3fb950" font-family="'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.6">SECURITY</text>
+  <text x="32" y="92" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-.3">MFA Auth API</text>
+  <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">
+    <tspan x="32" y="124">Backend service for multi-factor</tspan>
+    <tspan x="32" y="147">authentication, built with Express.js.</tspan>
+  </text>
+  <g transform="translate(32 166)">
+      <rect width="90" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#3fb950"/>
+      <text x="26" y="19" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">Node.js</text>
+    </g>
+<g transform="translate(130 166)">
+      <rect width="90" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#e6edf3"/>
+      <text x="26" y="19" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">Express</text>
+    </g>
+<g transform="translate(228 166)">
+      <rect width="98" height="28" rx="14" fill="#ffffff" fill-opacity=".04" stroke="#30363d"/>
+      <circle cx="15" cy="14" r="4.5" fill="#58a6ff"/>
+      <text x="26" y="19" fill="#c9d1d9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">REST API</text>
+    </g>
+  <!-- open arrow -->
+  <g transform="translate(534 28)">
+    <rect width="38" height="38" rx="19" fill="#ffffff" fill-opacity=".05" stroke="#30363d"/>
+    <path d="M14 24l10-10M16 14h8v8" stroke="#e6edf3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</g>
+<rect x=".5" y=".5" width="599" height="219" rx="18" stroke="#30363d"/>
+</svg>
