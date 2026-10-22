@@ -26,7 +26,7 @@ Today I'm building a fintech platform at **Grapes Technology**, with mobile-mone
 
 ## 💼 Experience
 
-<a href="https://marufh1.github.io/#experience"><img src="./assets/experience.svg" width="100%" alt="Senior Software Engineer at Grapes Technology (Dec 2025 – Present): microfinance platform on ASP.NET Core, C#, SQL Server and React; SQL query and index optimization; M-Pesa and GeePay integrations. Senior Software Engineer / Team Lead at Siara Solutions Pty Ltd. (Jul 2022 – Nov 2025): led React, Node.js and TypeScript development for car rental, food-ordering and tutoring platforms; real-time chat and Jitsi video; PostgreSQL and MongoDB. Software Engineer at Advanced Software and IT Services Ltd. (Mar 2019 – Jun 2022): settlement.gov.bd land survey app, land case and audit management systems, ERP modules." /></a>
+<a href="https://marufh1.github.io/#experience"><img src="./assets/experience.svg" width="100%" alt="Senior Software Engineer at Grapes Technology (Dec 2025 – Present): fintech platform on ASP.NET Core, C#, SQL Server and React; SQL query and index optimization; M-Pesa and GeePay integrations. Senior Software Engineer / Team Lead at Siara Solutions Pty Ltd. (Jul 2022 – Nov 2025): led React, Node.js and TypeScript development for car rental, food-ordering and tutoring platforms; real-time chat and Jitsi video; PostgreSQL and MongoDB. Software Engineer at Advanced Software and IT Services Ltd. (Mar 2019 – Jun 2022): settlement.gov.bd land survey app, land case and audit management systems, ERP modules." /></a>
 
 ## 🚀 Independent Products
 
